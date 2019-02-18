@@ -1,5 +1,8 @@
 # ConectaR 2019
+
 ## Taller: Crear API's con código R usando plumber
+
+[La presentación está aqui](https://github.com/ConectaR2019/Talleres2019)
 
 Para poder integrar nuestros resultados de análisis en la organización, tenemos
 que poder interoperar con sistemas y procesos existentes. Además ocurre
