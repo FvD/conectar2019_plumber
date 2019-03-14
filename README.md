@@ -2,7 +2,7 @@
 
 ## Taller: Crear API's con código R usando plumber
 
-[La presentación está aqui](https://github.com/ConectaR2019/Talleres2019)
+[La presentación está aqui](https://speakerdeck.com/fvd/taller-crear-apis-con-codigo-r-usando-plumber)
 
 Para poder integrar nuestros resultados de análisis en la organización, tenemos
 que poder interoperar con sistemas y procesos existentes. Además ocurre
